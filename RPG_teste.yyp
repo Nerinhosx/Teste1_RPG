@@ -51,6 +51,8 @@
     {"id":{"name":"spr_personagem_parado_esquerda","path":"sprites/spr_personagem_parado_esquerda/spr_personagem_parado_esquerda.yy",},},
     {"id":{"name":"spr_personagem_sombra","path":"sprites/spr_personagem_sombra/spr_personagem_sombra.yy",},},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},},
+    {"id":{"name":"spr_slime_andando_strip6","path":"sprites/spr_slime_andando_strip6/spr_slime_andando_strip6.yy",},},
+    {"id":{"name":"spr_slime_sombra","path":"sprites/spr_slime_sombra/spr_slime_sombra.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

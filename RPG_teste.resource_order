@@ -30,5 +30,7 @@
     {"name":"spr_personagem_parado_direita","order":6,"path":"sprites/spr_personagem_parado_direita/spr_personagem_parado_direita.yy",},
     {"name":"spr_personagem_parado_esquerda","order":9,"path":"sprites/spr_personagem_parado_esquerda/spr_personagem_parado_esquerda.yy",},
     {"name":"spr_personagem_sombra","order":10,"path":"sprites/spr_personagem_sombra/spr_personagem_sombra.yy",},
+    {"name":"spr_slime_andando_strip6","order":11,"path":"sprites/spr_slime_andando_strip6/spr_slime_andando_strip6.yy",},
+    {"name":"spr_slime_sombra","order":12,"path":"sprites/spr_slime_sombra/spr_slime_sombra.yy",},
   ],
 }

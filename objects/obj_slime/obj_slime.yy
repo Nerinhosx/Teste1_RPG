@@ -3,6 +3,7 @@
   "%Name":"obj_slime",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_slime",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_slime_andando_strip6",
-    "path":"sprites/spr_slime_andando_strip6/spr_slime_andando_strip6.yy",
+    "name":"spr_slime_andando",
+    "path":"sprites/spr_slime_andando/spr_slime_andando.yy",
   },
   "spriteMaskId":null,
   "visible":true,

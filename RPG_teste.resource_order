@@ -20,6 +20,7 @@
     {"name":"camera","order":2,"path":"objects/camera/camera.yy",},
     {"name":"obj_dash","order":3,"path":"objects/obj_dash/obj_dash.yy",},
     {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"obj_slime","order":4,"path":"objects/obj_slime/obj_slime.yy",},
     {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
     {"name":"spr_personagem_correndo_baixo","order":2,"path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},
     {"name":"spr_personagem_correndo_cima","order":3,"path":"sprites/spr_personagem_correndo_cima/spr_personagem_correndo_cima.yy",},
@@ -30,7 +31,7 @@
     {"name":"spr_personagem_parado_direita","order":6,"path":"sprites/spr_personagem_parado_direita/spr_personagem_parado_direita.yy",},
     {"name":"spr_personagem_parado_esquerda","order":9,"path":"sprites/spr_personagem_parado_esquerda/spr_personagem_parado_esquerda.yy",},
     {"name":"spr_personagem_sombra","order":10,"path":"sprites/spr_personagem_sombra/spr_personagem_sombra.yy",},
-    {"name":"spr_slime_andando_strip6","order":11,"path":"sprites/spr_slime_andando_strip6/spr_slime_andando_strip6.yy",},
+    {"name":"spr_slime_andando","order":11,"path":"sprites/spr_slime_andando/spr_slime_andando.yy",},
     {"name":"spr_slime_sombra","order":12,"path":"sprites/spr_slime_sombra/spr_slime_sombra.yy",},
   ],
 }

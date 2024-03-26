@@ -9,6 +9,7 @@ hveloc = 0;
 vveloc = 0;
 
 veloc = 2;
+veloc_dir = -1;
 
 dir = 0;
 //Fim movimentação

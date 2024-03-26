@@ -7,7 +7,21 @@ function scr_personagem_andando(){
 	esquerda = keyboard_check(ord("A"));
 	baixo = keyboard_check(ord("S"));
 
-	hveloc = (direita - esquerda) * veloc;
+	hveloc = (direita - esquerda);
+	vveloc = (baixo - cima);
+	
+	veloc_dir = point_direction(x, y, x+hveloc, y+vveloc);
+	
+	if(hveloc!=0 || vveloc!=0){
+		veloc = 2;
+	}
+	else{
+		veloc = 0;
+	}
+	
+	hveloc = lengthdir_x(veloc, veloc_dir);
+	vveloc = lengthdir_y(veloc, veloc_dir);
+	
 
 	if(place_meeting(x + hveloc, y, obj_parede)){
 		while(!place_meeting(x + sign(hveloc), y, obj_parede)){
@@ -16,8 +30,6 @@ function scr_personagem_andando(){
 		hveloc = 0;
 	}
 	x += hveloc;
-
-	vveloc = (baixo - cima) * veloc;
 
 	if(place_meeting(x, y + vveloc, obj_parede)){
 		while(!place_meeting(x, y + sign(vveloc), obj_parede)){

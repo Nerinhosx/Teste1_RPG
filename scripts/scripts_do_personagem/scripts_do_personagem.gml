@@ -76,10 +76,15 @@ function scr_personagem_andando(){
 	}
 	// Fim direção
 	
-	if(mouse_check_button_pressed(mb_right)){
-		alarm[0] = 8;
-		dash_dir = point_direction(x, y, mouse_x, mouse_y);
-		estado = scr_personagem_dash;
+	if(estamina>=10){
+		if(mouse_check_button_pressed(mb_right)){
+			estamina-=10;
+			alarm[1] = 180;
+		
+			alarm[0] = 8;
+			dash_dir = point_direction(x, y, mouse_x, mouse_y);
+			estado = scr_personagem_dash;
+		}
 	}
 }
 

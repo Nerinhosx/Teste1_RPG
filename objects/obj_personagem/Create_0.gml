@@ -22,3 +22,8 @@ dash_veloc = 6;
 //Início estado
 estado = scr_personagem_andando;
 //Fim estado
+
+//Início combate
+max_estamina = 100;
+estamina = max_estamina;
+//Fim combate

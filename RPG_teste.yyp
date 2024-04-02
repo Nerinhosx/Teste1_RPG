@@ -40,6 +40,7 @@
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},},
     {"id":{"name":"obj_slime","path":"objects/obj_slime/obj_slime.yy",},},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},},
+    {"id":{"name":"scripts_do_slime","path":"scripts/scripts_do_slime/scripts_do_slime.yy",},},
     {"id":{"name":"scripts_do_personagem","path":"scripts/scripts_do_personagem/scripts_do_personagem.yy",},},
     {"id":{"name":"spr_parede","path":"sprites/spr_parede/spr_parede.yy",},},
     {"id":{"name":"spr_personagem_correndo_baixo","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},},

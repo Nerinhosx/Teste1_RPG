@@ -21,6 +21,7 @@
     {"name":"obj_dash","order":3,"path":"objects/obj_dash/obj_dash.yy",},
     {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
     {"name":"obj_slime","order":4,"path":"objects/obj_slime/obj_slime.yy",},
+    {"name":"scripts_do_slime","order":1,"path":"scripts/scripts_do_slime/scripts_do_slime.yy",},
     {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
     {"name":"spr_personagem_correndo_baixo","order":2,"path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},
     {"name":"spr_personagem_correndo_cima","order":3,"path":"sprites/spr_personagem_correndo_cima/spr_personagem_correndo_cima.yy",},
